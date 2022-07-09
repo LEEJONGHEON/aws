@@ -1,5 +1,10 @@
 # aws
 
+## aws 학습방법
+- anaconda 설치
+- GPU 버전에 맞는 nvidia 그래픽드라이버와, cuda , torch 설치(버전 호환안되면 GPU 작동안함)
+- anaconda 가상환경에서 pip 종속성체크확인하고, 모델학습시작
+- 추후에 Docker을 이용하여 좀더 간편한 종속성 문제해결
 
 ## Deep-text-recognition(Star-net 학습)
 ### aws g5-large 그래픽카드 사양 nvidia-smi
