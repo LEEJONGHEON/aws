@@ -15,3 +15,6 @@
 - 1000 iter 45분 소모
 - 70000 iter = 70 * 45 = 3150분 = 52.5시간 = 2.2일 소모
 
+### 학습 과정
+### ![image](https://user-images.githubusercontent.com/54635552/178093100-2e56a9a8-ecdf-484d-9469-7ab89a9f6259.png)
+
