@@ -25,6 +25,9 @@
 ### log_train.txt 파일
 
 ### aws 서버 저장공간관리
+- df : linux 환경 전체 용량확인
+### ![image](https://user-images.githubusercontent.com/54635552/178137029-42c38c1d-4642-4826-b7ca-3094e09cfad2.png)
+
 - du -sh * : 현재공간에서 폴더 용량 확인
 ### ![image](https://user-images.githubusercontent.com/54635552/178137010-f8cc26cf-2f46-4dab-9d84-c07c6d18bc23.png)
 
