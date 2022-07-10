@@ -23,3 +23,8 @@
 ### 학습 과정
 ### ![image](https://user-images.githubusercontent.com/54635552/178093100-2e56a9a8-ecdf-484d-9469-7ab89a9f6259.png)
 ### log_train.txt 파일
+
+### aws 서버 저장공간관리
+- du -sh * : 현재공간에서 폴더 용량 확인
+### ![image](https://user-images.githubusercontent.com/54635552/178137010-f8cc26cf-2f46-4dab-9d84-c07c6d18bc23.png)
+
