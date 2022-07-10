@@ -22,4 +22,4 @@
 
 ### 학습 과정
 ### ![image](https://user-images.githubusercontent.com/54635552/178093100-2e56a9a8-ecdf-484d-9469-7ab89a9f6259.png)
-
+### log_train.txt 파일
